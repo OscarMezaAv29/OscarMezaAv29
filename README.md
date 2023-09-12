@@ -1,10 +1,7 @@
 <h1 align="center">Hola 👋, Soy Oscar Meza</h1>
 <h3 align="center">Desarrollador FrontEnd de México</h3>
 
-<h3 align="left">Contáctame:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oscar alejandro meza avendaño" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar alejandro meza avendaño" height="30" width="40" /></a>
-</p>
+
 <p align="left"> 
 <h3 align="left">Lenguajes de Programación:</h3>
 
@@ -60,7 +57,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  
+
+  <h3 align="left">Contáctame:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/oscar alejandro meza avendaño" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar alejandro meza avendaño" height="30" width="40" /></a>
+</p>
  
 
 
