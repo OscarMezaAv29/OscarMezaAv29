@@ -10,7 +10,11 @@
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin: 0 18px;"/> 
-  </a> 
+  </a>
+</p>
+
+<h3 align="center">FrontEnd</h3>
+<p align="center">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50" style="margin: 0 18px;"/> 
   </a>
