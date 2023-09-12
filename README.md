@@ -5,7 +5,7 @@
 <p align="left"> 
 <h3 align="left">Lenguajes de Programación:</h3>
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" align="center">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
