@@ -6,7 +6,6 @@
 <a href="https://linkedin.com/in/oscar alejandro meza avendaño" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar alejandro meza avendaño" height="30" width="40" /></a>
 </p>
 <p align="left"> 
-<h3 align="left">Lenguajes y Herramientas:</h3>
 <h3 align="left">Lenguajes de Programación:</h3>
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
