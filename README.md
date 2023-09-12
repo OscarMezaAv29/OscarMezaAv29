@@ -72,3 +72,5 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar alejandro meza avendaño" height="40" width="40" style="margin: 0 18px;"/>
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarMezaAv29)](https://github.com/anuraghazra/github-readme-stats)
