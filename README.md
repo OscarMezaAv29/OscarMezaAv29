@@ -1,5 +1,6 @@
 <h1 align="left">Hola 👋, Soy Oscar Meza</h1>
-<h3 align="left">Desarrollador FrontEnd de México</h3>
+<h3 align="left">Desarrollador FrontEnd</h3>
+<h3 align="left">Puebla, México</h3>
 
 
 <p align="left"> 
